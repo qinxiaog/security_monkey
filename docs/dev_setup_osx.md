@@ -1,4 +1,5 @@
-***********\* Development Setup on Mac OS X***********\*
+Development Setup on Mac OS X
+=============================
 
 Please follow the instructions below for setting up the Security Monkey development environment on Mac OS X.
 

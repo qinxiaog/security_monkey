@@ -1,4 +1,5 @@
-***********\* Development Setup on Ubuntu***********\*
+Development Setup on Ubuntu
+===========================
 
 Please follow the instructions below for setting up the Security Monkey development environment on Ubuntu Trusty (14.04).
 
